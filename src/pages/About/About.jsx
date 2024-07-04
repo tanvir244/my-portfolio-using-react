@@ -27,7 +27,7 @@ const About = () => {
                 <p className='w-24 h-1 bg-white mx-auto mt-8'></p>
                 <div className='flex flex-col md:flex-row gap-8 my-12'>
                     <div>
-                        <img className='rounded-2xl' alt='author' src="https://i.ibb.co/6mMsMt0/Untitled-design-5.png" />
+                        <img className='rounded-2xl w-[400px] h-[400px] object-cover' alt='author' src="https://i.ibb.co/6mMsMt0/Untitled-design-5.png" />
                     </div>
                     <div className='text-white w-full md:w-[70%] p-4'>
                         <h3 className='text-2xl text-[#219ebc]'>Who Am I?</h3>
