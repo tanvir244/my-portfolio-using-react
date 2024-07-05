@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { FaLink } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
 const Projects = () => {
@@ -60,7 +61,7 @@ const Projects = () => {
                                         </div>
                                         <div className="w-[1%] max-h-full bg-[#6c757d] mx-auto"></div>
                                         <div className="w-[29%] pl-4">
-                                            <Link to={`${project.live_link}`}><h3 className="font-bold text-xl mb-3 text-[#023047]">Project Link</h3></Link>
+                                            <Link to={`${project.live_link}`}><h3 className="flex font-bold text-lg gap-2 items-center mb-3 text-[#d90429]">Project Link <FaLink /></h3></Link>
                                             <Link to={`${project.project_requriment}`}><h3 className="text-sm lg:text-base font-semibold text-black"><span className="text-red-700">1.</span> Requirement</h3></Link>
                                             <Link to={`${project.client_code}`}><h3 className="text-sm lg:text-base font-semibold text-black"><span className="text-red-700">2.</span>  Client Code</h3></Link>
                                             <Link to={`${project.server_code}`}><h3 className="text-sm lg:text-base font-semibold text-black"><span className="text-red-700">3.</span>  Server Code</h3></Link>

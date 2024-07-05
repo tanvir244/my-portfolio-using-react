@@ -59,7 +59,7 @@ const Navbar = () => {
             <div className="navbar-end hidden md:flex w-[78%]">
                 <ul className="menu menu-horizontal px-1">
                     {navItems.map(item => (
-                        <li key={item.path}><Link to={item.path}>{item.title}</Link></li>
+                        <li className="text-base hover:text-[#fff3b0] font-medium" key={item.path}><Link to={item.path}>{item.title}</Link></li>
                     ))}
                 </ul>
             </div>
