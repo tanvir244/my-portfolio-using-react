@@ -1,7 +1,7 @@
 [
     {
         "name": "Blood Donation Website",
-        "demo_img": "/public/assets/blood_donation.jpeg",
+        "demo_img": "https://i.ibb.co/FbN3H4R/blood-donation.jpg",
         "technologies": ["https://i.ibb.co/Z8k9JyW/html.png", "https://i.ibb.co/wR0prXY/css.png", "https://i.ibb.co/CJmY0ZV/tailwind.png", "https://i.ibb.co/857z8g1/js.png", "https://i.ibb.co/ZHK08w0/react.png", "https://i.ibb.co/VMFnxpX/firebase.png", "https://i.ibb.co/9yDZLtV/node.png", "https://i.ibb.co/gDjt3mT/express.png", "https://i.ibb.co/1dDp6bc/mongodb.png"],
         "project_requriment": "https://drive.google.com/file/d/1MkqwA4mHPwNPiREbRetNK9JoElEgIJ_3/view?usp=sharing",
         "live_link": "https://donation-blood-auth.web.app",
@@ -10,8 +10,8 @@
     },
     {
         "name": "Blog Portal Website",
-        "demo_img": "/public/assets/blog_portal.jpeg",
-        "technologies": ["/public/skills/html.svg", "/public/skills/css.svg", "/public/skills/tailwind.svg", "/public/skills/js.svg", "/public/skills/react.svg", "/public/skills/firebase.svg", "/public/skills/node.svg", "/public/skills/mongodb.svg"],
+        "demo_img": "https://i.ibb.co/YdZd5kH/blog-portal.jpg",
+        "technologies": ["https://i.ibb.co/Z8k9JyW/html.png", "https://i.ibb.co/wR0prXY/css.png", "https://i.ibb.co/CJmY0ZV/tailwind.png", "https://i.ibb.co/857z8g1/js.png", "https://i.ibb.co/ZHK08w0/react.png", "https://i.ibb.co/VMFnxpX/firebase.png", "https://i.ibb.co/9yDZLtV/node.png", "https://i.ibb.co/gDjt3mT/express.png", "https://i.ibb.co/1dDp6bc/mongodb.png"],
         "project_requriment": "https://drive.google.com/file/d/1pOKB27e76CcmlDHeTHtm3Xef8Hm_Co99/view?usp=sharing",
         "live_link": "https://blog-portal-auth.web.app/",
         "client_code": "https://github.com/tanvir244/blog-portal-client",
@@ -19,8 +19,8 @@
     },
     {
         "name": "Pottery Showcase Site",
-        "demo_img": "/public/assets/pottery_art.jpeg",
-        "technologies": ["/public/skills/html.svg", "/public/skills/css.svg", "/public/skills/tailwind.svg", "/public/skills/js.svg", "/public/skills/react.svg", "/public/skills/firebase.svg", "/public/skills/node.svg", "/public/skills/mongodb.svg"],
+        "demo_img": "https://i.ibb.co/hVn5Dyv/pottery-art.jpg",
+       "technologies": ["https://i.ibb.co/Z8k9JyW/html.png", "https://i.ibb.co/wR0prXY/css.png", "https://i.ibb.co/CJmY0ZV/tailwind.png", "https://i.ibb.co/857z8g1/js.png", "https://i.ibb.co/ZHK08w0/react.png", "https://i.ibb.co/VMFnxpX/firebase.png", "https://i.ibb.co/9yDZLtV/node.png", "https://i.ibb.co/gDjt3mT/express.png", "https://i.ibb.co/1dDp6bc/mongodb.png"],
         "project_requriment": "https://drive.google.com/file/d/1AqEj_SFI12g5HdXcbtXaoY6bDe_KVswI/view?usp=sharing",
         "live_link": "https://ceramics-and-pottery-auth.web.app",
         "client_code": "https://github.com/tanvir244/pottery-client-side",
