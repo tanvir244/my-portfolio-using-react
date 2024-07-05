@@ -53,7 +53,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <Link href={'/'}>
-                    <img alt='logo' src={'/logo3.png'} className="w-[80px] h-[80px]" />
+                    <img alt='logo' src={'https://i.ibb.co/pv6qSHw/chevrons-9871883.png'} className="w-[80px] h-[80px]" />
                 </Link>
             </div>
             <div className="navbar-end hidden md:flex w-[78%]">

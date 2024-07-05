@@ -29,24 +29,24 @@ const Contact = () => {
                     <p className='text-[#fefae0]'>For the most efficient way to reach me via email, if you seriously expect a reply, please send me an email.</p>
                     <div className='mt-4'>
                         <h3 className='text-white font-semibold'>tr30365s25@gmail.com</h3>
-                        <img className='mx-auto w-[320px] h-[280px]' alt='tr30365s25@gmail.com' src={'/assets/email.png'} />
+                        <img className='mx-auto w-[320px] h-[280px]' alt='tr30365s25@gmail.com' src={'https://i.ibb.co/25r71Wr/email.png'} />
                     </div>
                 </div>
                 <ul className='flex justify-center md:justify-end gap-4 md:gap-6 pb-6 text-white'>
                     <Link to='https://www.linkedin.com/in/hellotanvir4/' className='flex items-center gap-2 text-[#4ecdc4] font-semibold w-[45px]'>
-                        <img alt='facebook' src={'/assets/linkedin.png'} />
+                        <img alt='facebook' src={'https://i.ibb.co/25LW5Kf/linkedin.png'} />
                     </Link>
                     <Link to='https://github.com/tanvir244' className='flex items-center gap-2 text-[#fb6f92] font-semibold w-[45px]'>
-                        <img alt='github' src={'/assets/github.png'} />
+                        <img alt='github' src={'https://i.ibb.co/Tb0pGF8/github.png'} />
                     </Link>
                     <Link to='https://www.facebook.com/tanvirrahman.saim.7' className='flex items-center gap-2 text-[#faf0ca] font-semibold w-[45px]'>
-                        <img alt='facebook' src={'/assets/facebook.png'} />
+                        <img alt='facebook' src={'https://i.ibb.co/TcdCrY8/facebook.png'} />
                     </Link>
                     <Link to='https://www.instagram.com/hellotanvir4/' className='flex items-center gap-2 text-[#faf0ca] font-semibold w-[45px]'>
-                        <img alt='instagram' src={'/assets/instagram.png'} />
+                        <img alt='instagram' src={'https://i.ibb.co/41pkVw4/instagram.png'} />
                     </Link>
                     <Link to='https://x.com/Tanvir339077' className='flex items-center gap-2 text-[#faf0ca] font-semibold w-[45px]'>
-                        <img alt='twitter' src={'/assets/twitter.png'} />
+                        <img alt='twitter' src={'https://i.ibb.co/r5zbRRT/twitter.png'} />
                     </Link>
                 </ul>
             </div>

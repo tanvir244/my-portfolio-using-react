@@ -1,13 +1,4 @@
 import { Link } from "react-router-dom";
-// import html5 from './skills/html.png';
-// import css from './skills/css.png';
-// import tailwind from './skills/tailwind-css.png';
-// import js from './skills/js.png';
-// import react from './skills/react.png';
-// import firebase from './skills/firebase.png';
-// import mongodb from './skills/mongodb.png';
-// import node from './skills/node-jd.png';
-// import express from './skills/express.png';
 
 const Resume = () => {
     return (
@@ -74,17 +65,17 @@ const Resume = () => {
                 <div className="space-y-4 pt-2 pb-20">
                     <h2 className="text-4xl my-6 font-bold">Technical Skills</h2>
                     <div className="flex justify-center gap-4 w-1/2 mx-auto">
-                        <img src="/public/skills/html.svg" className="w-[90px]" alt="" />
-                        <img src="/public/skills/css.svg" className="w-[90px]" alt="" />
-                        <img src="/public/skills/tailwind.svg" className="w-[90px]" alt="" />
-                        <img src="/public/skills/js.svg" className="w-[90px]" alt="" />
-                        <img src="/public/skills/react.svg" className="w-[90px]" alt="" />
+                        <img src="https://i.ibb.co/Z8k9JyW/html.png" className="w-[90px]" alt="" />
+                        <img src="https://i.ibb.co/wR0prXY/css.png" className="w-[90px]" alt="" />
+                        <img src="https://i.ibb.co/CJmY0ZV/tailwind.png" className="w-[90px]" alt="" />
+                        <img src="https://i.ibb.co/857z8g1/js.png" className="w-[90px]" alt="" />
+                        <img src="https://i.ibb.co/ZHK08w0/react.png" className="w-[90px]" alt="" />
                     </div>
                     <div className="flex justify-center gap-4 w-1/2 mx-auto">
-                        <img src="/public/skills/firebase.svg" className="w-[90px]" alt="" />
-                        <img src="/public/skills/node.svg" className="w-[90px]" alt="" />
-                        <img src="/public/skills/express.svg" className="w-[90px]" alt="" />
-                        <img src="/public/skills/mongodb.svg" className="w-[90px]" alt="" />
+                        <img src="https://i.ibb.co/VMFnxpX/firebase.png" className="w-[90px]" alt="" />
+                        <img src="https://i.ibb.co/9yDZLtV/node.png" className="w-[90px]" alt="" />
+                        <img src="https://i.ibb.co/gDjt3mT/express.png" className="w-[90px]" alt="" />
+                        <img src="https://i.ibb.co/1dDp6bc/mongodb.png" className="w-[90px]" alt="" />
                     </div>
                 </div>
             </div>
