@@ -71,7 +71,7 @@ const Resume = () => {
                 </div>
 
                 {/* Skills */}
-                <div className="space-y-4 py-20">
+                <div className="space-y-4 pt-2 pb-20">
                     <h2 className="text-4xl my-6 font-bold">Technical Skills</h2>
                     <div className="flex justify-center gap-4 w-1/2 mx-auto">
                         <img src="/public/skills/html.svg" className="w-[90px]" alt="" />
