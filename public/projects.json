@@ -9,6 +9,15 @@
         "server_code": "https://github.com/tanvir244/donation-blood-server"
     },
     {
+        "name": "Event Management Platform",
+        "demo_img": "https://i.ibb.co.com/WPH6DL3/event-management-nextjs.jpg",
+        "technologies": ["https://i.ibb.co/Z8k9JyW/html.png", "https://i.ibb.co/wR0prXY/css.png", "https://i.ibb.co/CJmY0ZV/tailwind.png", "https://i.ibb.co/857z8g1/js.png", "https://i.ibb.co.com/ZgLRgJ2/icons8-next-js-48.png", "https://i.ibb.co.com/DfHnRk0/file.png", "https://i.ibb.co/9yDZLtV/node.png", "https://i.ibb.co/gDjt3mT/express.png", "https://i.ibb.co/1dDp6bc/mongodb.png"],
+        "project_requriment": "project-requirement-none",
+        "live_link": "https://event-management-platform-iota.vercel.app/",
+        "client_code": "https://github.com/tanvir244/event_management_platform",
+        "server_code": "https://github.com/tanvir244/event_management_platform"
+    },
+    {
         "name": "Blog Portal Website",
         "demo_img": "https://i.ibb.co/YdZd5kH/blog-portal.jpg",
         "technologies": ["https://i.ibb.co/Z8k9JyW/html.png", "https://i.ibb.co/wR0prXY/css.png", "https://i.ibb.co/CJmY0ZV/tailwind.png", "https://i.ibb.co/857z8g1/js.png", "https://i.ibb.co/ZHK08w0/react.png", "https://i.ibb.co/VMFnxpX/firebase.png", "https://i.ibb.co/9yDZLtV/node.png", "https://i.ibb.co/gDjt3mT/express.png", "https://i.ibb.co/1dDp6bc/mongodb.png"],

@@ -26,9 +26,8 @@ const Resume = () => {
                 <h2 className='text-3xl md:text-5xl text-center font-bold text-white'>Resume Overview</h2>
                 <p className='w-24 h-1 bg-white mx-auto mt-8'></p>
                 <div className="flex justify-center md:justify-end gap-4 mt-4">
-                    <a className="bg-[#1982c4] text-white hover:bg-white hover:text-black py-3 px-4 rounded-md font-semibold" href="https://docs.google.com/document/d/1Y630pTcynZo8He0bI5FLejhYnozvAVs_U0aa46QKyPs" target="_blank" rel="noopener noreferrer">View Resume</a>
-                    <a className="bg-[#ffd60a] text-black hover:bg-white hover:text-black py-3 px-4 rounded-md font-semibold" href="https://drive.google.com/uc?export=download&id=19M9TgFXSFGl8otk8V36G7XER__YlKQN3">Download</a>
-
+                    <a className="bg-[#1982c4] text-white hover:bg-white hover:text-black py-3 px-4 rounded-md font-semibold" href="https://drive.google.com/file/d/1Ja0-TunB4uEvqtQ85OM_Zj03gJHMpHaf/view?usp=sharing" target="_blank" rel="noopener noreferrer">View Resume</a>
+                    <a className="bg-[#ffd60a] text-black hover:bg-white hover:text-black py-3 px-4 rounded-md font-semibold" href="https://drive.google.com/uc?export=download&id=1Ja0-TunB4uEvqtQ85OM_Zj03gJHMpHaf" target="_blank" rel="noopener noreferrer">Download</a>
                 </div>
                 {/* Acedemic */}
                 <div className="my-8">
